@@ -8,3 +8,5 @@ dist
 # Other
 .DS_Store
 .vscode
+
+src/images
