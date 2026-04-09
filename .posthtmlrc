@@ -26,7 +26,7 @@
             "value": {
               "width": "100%",
               "asset": "/images/2-Salem_Maru_Spreak_DPE-2.jpg",
-              "caption": "",
+              "caption": "While in Antigua, Guatemala, Maru frequently passed by yellow arches just outside the ruins of Convento Santa Clara on her walks. Maru learned that people used to go to the convent for public laundry. Now, people gather to hang out, take photos, eat, and immerse themselves in the city’s history and beauty.",
               "credit": "Salem Maru."
             }
           },
@@ -60,7 +60,7 @@
           {
             "type": "image",
             "value": {
-              "width": "100%",
+              "width": "50%",
               "asset": "/images/1-Annie.jpg",
               "caption": "Deputy photo editor Tianqi Wang went to Death Valley on a trip with Columbia’s Geological Excursion class. Wang captured a quiet moment at Badwater Basin, where the sky and earth dissolve into a perfect mirror. Tourists stand suspended between the reflection and reality in the vast stillness of Death Valley.",
               "credit": "Tianqi Wang."
@@ -123,7 +123,7 @@
           {
             "type": "image",
             "value": {
-              "width": "100%",
+              "width": "50%",
               "asset": "/images/1-IMG_5946.jpg",
               "caption": "In Jardin Majorelle, Robinson captures the diverse vegetation in this well-manicured botanical oasis.",
               "credit": "Giada Robinson."
@@ -150,7 +150,7 @@
           {
             "type": "image",
             "value": {
-              "width": "100%",
+              "width": "50%",
               "asset": "/images/3-SofiaWadler_Spreak_3_20_CDS_6.jpg",
               "caption": "Shockingly, Wadler stumbled across her favorite iconic Colombian restaurant, Andrés Carne de Res, while exploring the bustling Lincoln Road of Miami Beach.",
               "credit": "Sofia Wadler."
@@ -204,7 +204,7 @@
           {
             "type": "image",
             "value": {
-              "width": "100%",
+              "width": "50%",
               "asset": "/images/Esmeralda_Paredes_Spreak_March_2026_3.jpg",
               "caption": "Deputy photo editor Esmeralda Paredes traveled to Duet Karaoke in Midtown Manhattan with her friend, using music as a form of cathartic release. Moving between Spanish pop, rock, post-hardcore, and metal, their performances ranged from intense to emotional.",
               "credit": "Esmeralda Paredes."
