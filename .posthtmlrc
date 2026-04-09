@@ -7,12 +7,305 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Escaping weeks of volatile weather in New York City, Spectator photographers found ways to take advantage of spring break’s merciful timing and various locations. Take a closer look at what our staff photographers did on their days off."
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/1-Salem_Maru_Spreak_DPE-1.jpg",
+              "caption": "For spring break, deputy editor Salem Maru made sure to bring her film camera loaded with Kodak Gold 200. Maru flew into Guatemala City before heading to Antigua and Lake Atitlán. Water taxis zoomed across Lake Atitlán which is surrounded by intimidating volcanoes formed deep inside its craters.",
+              "credit": "Salem Maru."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/2-Salem_Maru_Spreak_DPE-2.jpg",
+              "caption": "",
+              "credit": "Salem Maru."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/3-Salem_Maru_Spreak_DPE-4.jpg",
+              "caption": "Over spring break, photo trainee Max Yoo travelled to Hawaii with his friends, bringing along his heavy film camera. Despite sore legs and a tired back, he made it up Oahu’s famous Koko Crater Trail as pictured here.",
+              "credit": "Max Yoo."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/3-Salem_Maru_Spreak_DPE-4.jpg",
+              "caption": "Searching for the freshest poke on the island possible, Yoo and his friends headed to Morning Catch in Chinatown. After devouring the delicious meal, they wandered around the market where various vendors offered diverse food.",
+              "credit": "Max Yoo."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/3-Salem_Maru_Spreak_DPE-4.jpg",
+              "caption": "Even though there was heavy on-and-off rain, Yoo’s group made it to three different beaches on three consecutive days, driving around the island in search of locations with parking and clear water.",
+              "credit": "Max Yoo."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/1-Annie.jpg",
+              "caption": "Deputy photo editor Tianqi Wang went to Death Valley on a trip with Columbia’s Geological Excursion class. Wang captured a quiet moment at Badwater Basin, where the sky and earth dissolve into a perfect mirror. Tourists stand suspended between the reflection and reality in the vast stillness of Death Valley.",
+              "credit": "Tianqi Wang."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/2-Annie.jpg",
+              "caption": "Sunlight pours into the Little Hebe volcanic crater. A vast silence lingers where earth once erupted, now resting under an endless sky.",
+              "credit": "Tianqi Wang."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/3-Annie.jpg",
+              "caption": "On her geology trip through Death Valley, Wang followed a trail toward Little Hebe Crater, tracing the landscape shaped by ancient eruptions. Each step brought Wang closer to climbing down into the history written in the desert.",
+              "credit": "Tianqi Wang."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/1-IMG_7328.jpg",
+              "caption": "Photo editor Audrea Chen took a trip to California, hitting Los Angeles, Irvine, and Malibu. Taking in the beauty of Laguna Beach and betraying her deep East Coast roots, Chen realized that—maybe—the West Coast might be the best coast…",
+              "credit": "Audrea Chen."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/2-IMG_7322.jpg",
+              "caption": "Chen explored the J. Paul Getty Museum and its impressive architecture at sunset.",
+              "credit": "Audrea Chen."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/3-IMG_7319.jpg",
+              "caption": "Peaceful contemplation in the Fran & Ray Stark Sculpture Garden at the Getty Center",
+              "credit": "Audrea Chen."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/2-IMG_6152.jpg",
+              "caption": "Upon arriving at Marrakech, Morocco, on March 15, deputy photo editor Giada Robinson brought her camera on a walking tour of the souks and various city monuments.",
+              "credit": "Giada Robinson."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/1-IMG_5946.jpg",
+              "caption": "In Jardin Majorelle, Robinson captures the diverse vegetation in this well-manicured botanical oasis.",
+              "credit": "Giada Robinson."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/1-SofiaWadler_Spreak_3_20_CDS_4.jpg",
+              "caption": "Staff photographer Sofia Wadler watches the sun rise over the ocean at South Beach in Miami.",
+              "credit": "Sofia Wadler."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/2-SofiaWadler_Spreak_3_20_CDS_1.jpg",
+              "caption": "Walking along Miami Beach at sunrise, Wadler came across a lifeguard stand.",
+              "credit": "Sofia Wadler."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/3-SofiaWadler_Spreak_3_20_CDS_6.jpg",
+              "caption": "Shockingly, Wadler stumbled across her favorite iconic Colombian restaurant, Andrés Carne de Res, while exploring the bustling Lincoln Road of Miami Beach.",
+              "credit": "Sofia Wadler."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/MingYuan_Spreak_260323_CDS.jpg",
+              "caption": "Photo trainee Ming Yuan travelled to the Dominican Republic to escape from New York City’s chilly wind. Wandering by La Playa Bayahibe, Yuan was impressed by the tranquil, turquoise water and documented it with her camera.",
+              "credit": "Ming Yuan."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/MarcusBui_Spreak_03_22_CDS-1.jpg",
+              "caption": "Staff photographer Marcus Bui stayed in New York City, returning home to visit his family. At home, Bui captured a photo of his younger brother looking out the window, realizing how much he has grown while Bui has been away.",
+              "credit": "Marcus Bui."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/MarcusBui_Spreak_03_22_CDS-2.jpg",
+              "caption": "Driving down Hutchinson River Parkway after his trip in Massachusetts, Bui spots the pink “cotton candy clouds,” an indicator of a coming spring.",
+              "credit": "Marcus Bui."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/1-LoganFencer_SPRINGBREAK_11MAR26_CDS_1.jpg",
+              "caption": "Photo trainee Logan Fencer went to the Bowery Ballroom in the Lower East Side to see bands play live. Pictured above, Olivia Johnson, bassist and vocalist for Minneapolis-based shoegaze and grunge trio Prize Horse, whips through a performance.",
+              "credit": "Logan Fencer."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/2-LoganFencer_SPRINGBREAK_11MAR26_CDS_3.jpg",
+              "caption": "Stu Manley, drummer for Graham Hunt, performs a live set at Bowery Ballroom in New York City on March 11.",
+              "credit": "Logan Fencer."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/Esmeralda_Paredes_Spreak_March_2026_3.jpg",
+              "caption": "Deputy photo editor Esmeralda Paredes traveled to Duet Karaoke in Midtown Manhattan with her friend, using music as a form of cathartic release. Moving between Spanish pop, rock, post-hardcore, and metal, their performances ranged from intense to emotional.",
+              "credit": "Esmeralda Paredes."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/1-ToriFergus_SpringBreak_03_24_2026_DPE.jpg",
+              "caption": "Deputy photo editor Tori Fergus spent spring break in Dublin to celebrate a traditional St. Patrick’s Day. This was her view during a hike of Dublin Bay from Howth Cliff located shortly outside of Dublin.",
+              "credit": "Tori Fergus."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/2-ToriFergus_SpringBreak_03_24_2026_DPE.jpg",
+              "caption": "An archway at Trinity College Dublin",
+              "credit": "Tori Fergus."
+            }
+          },
+          {
+            "type": "image",
+            "value": {
+              "width": "100%",
+              "asset": "/images/JacksonDilks_SpringBreakPhotoEssay_CDS.jpg",
+              "caption": "Staff photographer Jackson Dilks went road-tripping down to South Carolina. He captured this image of the starry night sky after a long day of taking in the sun.",
+              "credit": "Jackson Dilks."
+            }
+          },
+          {
+            "type": "text",
+            "value": "With the 2025-26 school year coming to a close, Spectator’s photographers are replacing their spring break beaches with Low beach and returning the focus of their lenses to campus happenings."
+          },
+          {
+            "type": "text",
+            "value": "<i>Photo Editor Audrea Chen can be contacted at </i><a href=\"mailto:audrea.chen@columbiaspectator.com\"><i>audrea.chen@columbiaspectator.com. </i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Photo Editor Salem Maru can be contacted at </i><a href=\"mailto:salem.maru@columbiaspectator.com\"><i>salem.maru@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Photo Editor Tianqi Wang can be contacted at </i><a href=\"mailto:tianqi.wang@columbiaspectator.com\"><i>tianqi.wang@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Photo Editor Tori Fergus can be contacted at </i><a href=\"mailto:tori.fergus@columbiaspectator.com\"><i>tori.fergus@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Photo Editor Esmeralda Paredes can be contacted at </i><a href=\"mailto:esmeralda.paredes@columbiaspectator.com\"><i>esmeralda.paredes@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Photographer Sofia Wadler can be contacted at </i><a href=\"mailto:sofia.wadler@columbiaspectator.com\"><i>sofia.wadler@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Photographer Jackson Dilks can be contacted at </i><a href=\"mailto:jackson.dilks@columbiaspectator.com\"><i>jackson.dilks@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Photographer Marcus Bui can be contacted at </i><a href=\"mailto:marcus.bui@columbiaspectator.com\"><i>marcus.bui@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Photo Trainee Max Yoo can be contacted at </i><a href=\"mailto:maxwell.yoo@columbiaspectator.com\"><i>maxwell.yoo@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Photo Trainee Logan Fencer can be contacted at </i><a href=\"mailto:logan.fencer@columbiaspectator.com\"><i>logan.fencer@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Photo Trainee Ming Yuan can be contacted at </i><a href=\"mailto:ming.yuan@columbiaspectator.com\"><i>ming.yuan@columbiaspectator.com</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Data Visualization Reporter Sita Vemuri can be contacted at </i><a href=\"mailto:sita.vemuri@columbiaspectator.com\"><i>sita.vemuri@columbiaspectator.com</i></a><i>.</i><a href=\"mailto:eliza.lamster@columbiaspectator.com\"><i> </i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter</i></b></a><b><i> and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Spreak-ing news: Scenes from Spectator photographers’ Spring break",
+        "dek": "From coast to coast and valley to valley, over spring break, Spectator’s photographers adjusted their lenses to subjects: familiar and new. Take a closer look at what our staff photographers did on their days off.",
+        "date": "April 3rd, 2026",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/audrea-chen/\">Audrea Chen</a>, <a href=\"https://www.columbiaspectator.com/contributors/tori-fergus/\">Tori Fergus</a>, <a href=\"https://www.columbiaspectator.com/contributors/esmeralda-paredes/\">Esmeralda Paredes</a>, <a href=\"https://www.columbiaspectator.com/contributors/tianqi-wang/\">Tianqi Wang</a>, <a href=\"https://www.columbiaspectator.com/contributors/salem-maru/\">Salem Maru</a>, <a href=\"https://www.columbiaspectator.com/contributors/sofia-wadler/\">Sofia Wadler</a>, <a href=\"https://www.columbiaspectator.com/contributors/jackson-dilks/\">Jackson Dilks</a>,  <a href=\"https://www.columbiaspectator.com/contributors/marcus-bui/\">Marcus Bui</a>, <a href=\"https://www.columbiaspectator.com/contributors/max-yoo/\">Max Yoo</a>, <a href=\"https://www.columbiaspectator.com/contributors/ming-yuan/\">Ming Yuan</a>, and <a href=\"https://www.columbiaspectator.com/contributors/logan-fencer/\">Logan Fencer</a>",
+        "byline2": "Web Design by <a href=\"https://www.columbiaspectator.com/contributors/sita-vemuri/\">Sita Vemuri</a>",
+        "cover_asset": "/images/3-Salem_Maru_Spreak_DPE-4.jpg",
+        "cover_caption": "A morning captured beside a dock, soaking in Guatemalan sun Salem Maru / Deputy Photo Editor",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1m2BPbixR37kDLEFFnYjR2BIOwnGgZbIxbZydyGgg6_o/edit"
       }
     }
   }
