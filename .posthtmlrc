@@ -60,7 +60,7 @@
           {
             "type": "image",
             "value": {
-              "width": "50%",
+              "width": "100%",
               "asset": "/images/1-Annie.jpg",
               "caption": "Deputy photo editor Tianqi Wang went to Death Valley on a trip with Columbia’s Geological Excursion class. Wang captured a quiet moment at Badwater Basin, where the sky and earth dissolve into a perfect mirror. Tourists stand suspended between the reflection and reality in the vast stillness of Death Valley.",
               "credit": "Tianqi Wang."
@@ -123,7 +123,7 @@
           {
             "type": "image",
             "value": {
-              "width": "50%",
+              "width": "100%",
               "asset": "/images/1-IMG_5946.jpg",
               "caption": "In Jardin Majorelle, Robinson captures the diverse vegetation in this well-manicured botanical oasis.",
               "credit": "Giada Robinson."
@@ -150,7 +150,7 @@
           {
             "type": "image",
             "value": {
-              "width": "50%",
+              "width": "100%",
               "asset": "/images/3-SofiaWadler_Spreak_3_20_CDS_6.jpg",
               "caption": "Shockingly, Wadler stumbled across her favorite iconic Colombian restaurant, Andrés Carne de Res, while exploring the bustling Lincoln Road of Miami Beach.",
               "credit": "Sofia Wadler."
@@ -204,7 +204,7 @@
           {
             "type": "image",
             "value": {
-              "width": "50%",
+              "width": "100%",
               "asset": "/images/Esmeralda_Paredes_Spreak_March_2026_3.jpg",
               "caption": "Deputy photo editor Esmeralda Paredes traveled to Duet Karaoke in Midtown Manhattan with her friend, using music as a form of cathartic release. Moving between Spanish pop, rock, post-hardcore, and metal, their performances ranged from intense to emotional.",
               "credit": "Esmeralda Paredes."
@@ -297,7 +297,7 @@
         "headline": "Spreak-ing news: Scenes from Spectator photographers’ Spring break",
         "dek": "From coast to coast and valley to valley, over spring break, Spectator’s photographers adjusted their lenses to subjects: familiar and new. Take a closer look at what our staff photographers did on their days off.",
         "date": "April 3rd, 2026",
-        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/audrea-chen/\">Audrea Chen</a>, <a href=\"https://www.columbiaspectator.com/contributors/tori-fergus/\">Tori Fergus</a>, <a href=\"https://www.columbiaspectator.com/contributors/esmeralda-paredes/\">Esmeralda Paredes</a>, <a href=\"https://www.columbiaspectator.com/contributors/tianqi-wang/\">Tianqi Wang</a>, <a href=\"https://www.columbiaspectator.com/contributors/salem-maru/\">Salem Maru</a>, <a href=\"https://www.columbiaspectator.com/contributors/sofia-wadler/\">Sofia Wadler</a>, <a href=\"https://www.columbiaspectator.com/contributors/jackson-dilks/\">Jackson Dilks</a>,  <a href=\"https://www.columbiaspectator.com/contributors/marcus-bui/\">Marcus Bui</a>, <a href=\"https://www.columbiaspectator.com/contributors/max-yoo/\">Max Yoo</a>, <a href=\"https://www.columbiaspectator.com/contributors/ming-yuan/\">Ming Yuan</a>, and <a href=\"https://www.columbiaspectator.com/contributors/logan-fencer/\">Logan Fencer</a>",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/audrea-chen/\">Audrea Chen</a>, <a href=\"https://www.columbiaspectator.com/contributors/tori-fergus/\">Tori Fergus</a>, <a href=\"https://www.columbiaspectator.com/contributors/esmeralda-paredes/\">Esmeralda Paredes</a>, <a href=\"https://www.columbiaspectator.com/contributors/tianqi-wang/\">Tianqi Wang</a>, <a href=\"https://www.columbiaspectator.com/contributors/salem-maru/\">Salem Maru</a>, <a href=\"https://www.columbiaspectator.com/contributors/giada-robinson/\">Giada Robinson</a>, <a href=\"https://www.columbiaspectator.com/contributors/sofia-wadler/\">Sofia Wadler</a>, <a href=\"https://www.columbiaspectator.com/contributors/jackson-dilks/\">Jackson Dilks</a>,  <a href=\"https://www.columbiaspectator.com/contributors/marcus-bui/\">Marcus Bui</a>, <a href=\"https://www.columbiaspectator.com/contributors/max-yoo/\">Max Yoo</a>, <a href=\"https://www.columbiaspectator.com/contributors/ming-yuan/\">Ming Yuan</a>, and <a href=\"https://www.columbiaspectator.com/contributors/logan-fencer/\">Logan Fencer</a>",
         "byline2": "Web Design by <a href=\"https://www.columbiaspectator.com/contributors/sita-vemuri/\">Sita Vemuri</a>",
         "cover_asset": "/images/3-Salem_Maru_Spreak_DPE-4.jpg",
         "cover_caption": "A morning captured beside a dock, soaking in Guatemalan sun Salem Maru / Deputy Photo Editor",
